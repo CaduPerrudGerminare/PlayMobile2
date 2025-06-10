@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">PlayMobile</string>
+    <string name="gcm_defaultSenderId" translatable="false">522267803683</string>
+    <string name="google_api_key" translatable="false">AIzaSyD59gDqg31Ym0yuXSn58ASuA6Aj-N2LXuw</string>
+    <string name="google_app_id" translatable="false">1:522267803683:android:a3ab69d023e79d6d66f196</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD59gDqg31Ym0yuXSn58ASuA6Aj-N2LXuw</string>
+    <string name="google_storage_bucket" translatable="false">login---sign-up-e18e8.firebasestorage.app</string>
+    <string name="project_id" translatable="false">login---sign-up-e18e8</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifications</string>
+    <style name="Theme.PlayMobile" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

@@ -26,16 +26,23 @@ android {
             )
         }
     }
+
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
+
+        // Habilita o core library desugaring
+        isCoreLibraryDesugaringEnabled = true
     }
+
     buildFeatures {
         viewBinding = true
     }
 }
 
 dependencies {
+    // Desugaring
+    coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.1.3")
 
     implementation(libs.appcompat)
     implementation(libs.material)
@@ -46,9 +53,10 @@ dependencies {
     implementation(libs.navigation.ui)
     implementation(libs.activity)
     implementation(libs.firebase.firestore)
+    implementation(libs.play.services.tasks)
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
     implementation("com.github.bumptech.glide:glide:4.16.0")
-    implementation ("androidx.security:security-crypto:1.1.0-alpha06")
+    implementation("androidx.security:security-crypto:1.1.0-alpha06")
 }

@@ -12,6 +12,7 @@ navigationFragment = "2.9.0"
 navigationUi = "2.9.0"
 activity = "1.10.1"
 firebaseFirestore = "25.1.4"
+playServicesTasks = "18.3.0"
 
 [libraries]
 junit = { group = "junit", name = "junit", version.ref = "junit" }
@@ -26,6 +27,7 @@ navigation-fragment = { group = "androidx.navigation", name = "navigation-fragme
 navigation-ui = { group = "androidx.navigation", name = "navigation-ui", version.ref = "navigationUi" }
 activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
 firebase-firestore = { group = "com.google.firebase", name = "firebase-firestore", version.ref = "firebaseFirestore" }
+play-services-tasks = { group = "com.google.android.gms", name = "play-services-tasks", version.ref = "playServicesTasks" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }

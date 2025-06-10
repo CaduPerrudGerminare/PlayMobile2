@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-mergeDebugResources-49:\\layout\\activity_inserir.xml",
+        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\layout\\activity_inserir.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-mergeDebugResources-49:\\layout\\dialog_saida.xml",
+        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\layout\\dialog_saida.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-mergeDebugResources-49:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.aula.playmobile.app-mergeDebugResources-49:/layout/dialog_saida.xml",
+        "source": "com.aula.playmobile.app-main-52:/layout/dialog_saida.xml"
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.aula.playmobile.app-mergeDebugResources-48:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\carlossousa-ieg\\.gradle\\caches\\8.10.2\\transforms\\9adbe7b42e165e606a1683f26397aed9\\transformed\\appcompat-1.7.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

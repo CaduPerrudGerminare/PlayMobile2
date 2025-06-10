@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.aula.playmobile.app-mergeDebugResources-48:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\carlossousa-ieg\\.gradle\\caches\\8.10.2\\transforms\\9adbe7b42e165e606a1683f26397aed9\\transformed\\appcompat-1.7.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

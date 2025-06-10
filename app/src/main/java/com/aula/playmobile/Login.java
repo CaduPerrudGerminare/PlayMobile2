@@ -149,12 +149,14 @@ public class Login extends AppCompatActivity {
                         });
 
                         moveSet.start();
-                    } else {
-                        // Skip login, go to Home
-//                        startActivity(new Intent(Login.this, HomeActivity.class));
-//                        finish();
-                    }
-                }, 3000);
+                        } else {
+                            // Redireciona para inserir_placa
+                            Intent intent = new Intent(Login.this, inserir_placa.class);
+                            startActivity(intent);
+                            finish();
+                        }
+
+                    }, 3000);
             }
         });
 
