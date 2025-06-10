@@ -1,6 +1,9 @@
 package com.aula.playmobile;
 
+import static androidx.core.content.ContextCompat.startActivity;
+
 import android.content.Context;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.widget.Toast;
 
@@ -48,6 +51,10 @@ public class Database {
                                         .apply();
 
                                 Toast.makeText(context, "Login realizado com sucesso", Toast.LENGTH_SHORT).show();
+                                // Redireciona para inserir_placa
+                                Intent intent = new Intent(context, inserir_placa.class);
+                                context.startActivity(intent);
+
                                 return;
                             }
                         } else {
