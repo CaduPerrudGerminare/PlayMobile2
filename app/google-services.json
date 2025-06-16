@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "901980293248",
+    "project_id": "trabalhomobile---jbs",
+    "storage_bucket": "trabalhomobile---jbs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901980293248:android:d3eea125136a02f2fcbe65",
+        "android_client_info": {
+          "package_name": "com.example.trabalhomobile_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUfv8oz17db4_leb98vsjMY_35oX1w8mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

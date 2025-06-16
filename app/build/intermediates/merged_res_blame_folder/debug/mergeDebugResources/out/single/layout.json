@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.trabalhomobile_.app-mergeDebugResources-37:/layout/activity_admin.xml",
+        "source": "com.example.trabalhomobile_.app-main-40:/layout/activity_admin.xml"
+    },
+    {
+        "merged": "com.example.trabalhomobile_.app-mergeDebugResources-37:/layout/activity_inserir.xml",
+        "source": "com.example.trabalhomobile_.app-main-40:/layout/activity_inserir.xml"
+    },
+    {
+        "merged": "com.example.trabalhomobile_.app-mergeDebugResources-37:/layout/card_carro.xml",
+        "source": "com.example.trabalhomobile_.app-main-40:/layout/card_carro.xml"
+    },
+    {
+        "merged": "com.example.trabalhomobile_.app-mergeDebugResources-37:/layout/activity_login.xml",
+        "source": "com.example.trabalhomobile_.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.trabalhomobile_.app-mergeDebugResources-37:/layout/dialog_saida.xml",
+        "source": "com.example.trabalhomobile_.app-main-40:/layout/dialog_saida.xml"
+    },
+    {
+        "merged": "com.example.trabalhomobile_.app-mergeDebugResources-37:/layout/dialog_exclusao.xml",
+        "source": "com.example.trabalhomobile_.app-main-40:/layout/dialog_exclusao.xml"
+    },
+    {
+        "merged": "com.example.trabalhomobile_.app-mergeDebugResources-37:/layout/dialog_admin.xml",
+        "source": "com.example.trabalhomobile_.app-main-40:/layout/dialog_admin.xml"
+    }
+]

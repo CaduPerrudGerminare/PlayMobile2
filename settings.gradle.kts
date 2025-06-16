@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PlayMobile"
+rootProject.name = "TrabalhoMobile -"
 include(":app")
  
