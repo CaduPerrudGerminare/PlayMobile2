@@ -1,98 +1,146 @@
 [
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/color_purple_500.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/color/purple_500.xml"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\drawable_border.xml.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\drawable\\border.xml"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/drawable_secreta.png.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/drawable/secreta.png"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/layout_dialog_exclusao.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/layout/dialog_exclusao.xml"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\xml\\backup_rules.xml"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/xml_backup_rules.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\layout\\activity_login.xml"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\drawable_car.gif.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\drawable\\car.gif"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/color_purple_700.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/color/purple_700.xml"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/drawable_border.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/drawable/border.xml"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\mipmap-anydpi\\ic_launcher.xml"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\drawable_city.png.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\drawable\\city.png"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/layout_card_carro.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/layout/card_carro.xml"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\drawable_bg_dialog.xml.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\drawable\\bg_dialog.xml"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/drawable_img.png.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/drawable/img.png"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/layout_dialog_admin.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/layout/dialog_admin.xml"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\layout_activity_inserir.xml.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\layout\\activity_inserir.xml"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/mipmap-anydpi/ic_launcher.xml"
     },
     {
-        "merged": "com.aula.playmobile.app-debug-50:/layout_dialog_saida.xml.flat",
-        "source": "com.aula.playmobile.app-main-52:/layout/dialog_saida.xml"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/layout_dialog_saida.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/layout/dialog_saida.xml"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/layout_activity_admin.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/layout/activity_admin.xml"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\layout_dialog_saida.xml.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\layout\\dialog_saida.xml"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/layout_activity_login.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/layout/activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\mipmap-anydpi\\ic_launcher_round.xml"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/drawable_img2.png.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/drawable/img2.png"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/mipmap-anydpi/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/drawable_car.gif.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/drawable/car.gif"
     },
     {
-        "merged": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-debug-50:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\carlossousa-ieg\\.gradle\\daemon\\8.10.2\\com.aula.playmobile.app-main-52:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.trabalhomobile_.app-debug-38:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.trabalhomobile_.app-debug-38:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.trabalhomobile_.app-debug-38:/drawable_bg_dialog.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/drawable/bg_dialog.xml"
+    },
+    {
+        "merged": "com.example.trabalhomobile_.app-debug-38:/color_teal_200.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/color/teal_200.xml"
+    },
+    {
+        "merged": "com.example.trabalhomobile_.app-debug-38:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.trabalhomobile_.app-debug-38:/drawable_city.png.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/drawable/city.png"
+    },
+    {
+        "merged": "com.example.trabalhomobile_.app-debug-38:/drawable_logout.png.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/drawable/logout.png"
+    },
+    {
+        "merged": "com.example.trabalhomobile_.app-debug-38:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.trabalhomobile_.app-debug-38:/drawable_lixeira.png.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/drawable/lixeira.png"
+    },
+    {
+        "merged": "com.example.trabalhomobile_.app-debug-38:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.trabalhomobile_.app-debug-38:/layout_activity_inserir.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/layout/activity_inserir.xml"
+    },
+    {
+        "merged": "com.example.trabalhomobile_.app-debug-38:/color_teal_700.xml.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/color/teal_700.xml"
+    },
+    {
+        "merged": "com.example.trabalhomobile_.app-debug-38:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.trabalhomobile_.app-main-40:/mipmap-xxhdpi/ic_launcher_round.webp"
     }
 ]
